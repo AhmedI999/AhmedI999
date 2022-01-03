@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AhmedI999
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html5 and css
+- 🌱 I am a full stack web developer,<HTML, CSS, JS />
+   And WordPress
 - 📫 How to reach me ...ahmedibrahim5182@gmail.com
 
 <!---
